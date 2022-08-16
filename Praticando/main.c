@@ -2,7 +2,7 @@
 
 int main(){
 
-    // Autor: João
+    // Autor: Joao
 
     int idade;
 
@@ -16,7 +16,7 @@ int main(){
     }
 
     if(idade <= 18){
-        printf("Desculpe,voce ainda e menor de idade!\n");
+        printf("Desculpe, voce ainda e menor de idade!\n");
         printf("Nao pode entrar na balada\n");
     }
 
